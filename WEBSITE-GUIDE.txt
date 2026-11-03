@@ -1,0 +1,54 @@
+STERLINGMONT CAPITAL | COMPLETE WEBSITE
+
+Open index.html in a current browser. All pages, fonts, images and scripts
+are local. No build, installation, account or network connection is required.
+
+PRIMARY PAGES
+index.html - Home
+about.html - About Sterlingmont
+investment-focus.html - Illustrative investment focus areas
+investment-approach.html - Investment philosophy and process
+partnerships.html - Strategic partnerships and introductions
+contact.html - Corporate enquiry page and form design
+
+SUPPORTING PAGES
+information.html - Important information and prototype privacy
+404.html - Designed missing-page screen; configure with a future host
+
+EDITING
+Content is directly editable in each HTML file.
+styles.css contains the original brand and home styles.
+pages.css contains the full website layouts and shared navigation styles.
+app.js handles mobile menus, the fixed header, accordions, enquiry type
+preselection and local enquiry preview.
+assets/ includes the vector monogram, particle wave, architecture photograph,
+local Montserrat/Inter fonts and font license files.
+
+INTERACTIONS
+The logo returns home. The main and footer links connect the pages.
+Focus area links scroll to the relevant section below the fixed header.
+Partnership links preselect the corresponding corporate enquiry category.
+The enquiry form validates fields and opens a local review dialog.
+No enquiry is sent or stored by the application. There is no backend or
+analytics service. Browser autofill is controlled by the visitor's browser.
+The corporate flyer download is included locally.
+
+STATUS
+Complete multi-page design prototype, unpublished.
+Contact channels and corporate entity details await verification.
+Focus areas are labelled as illustrative proposals rather than holdings or
+live opportunities. There are no invented licensing, performance, team,
+track record or partner affiliation claims.
+Confirm business copy and obtain appropriate professional review before
+external use; connect real enquiry delivery only once its handling is agreed.
+
+VERIFICATION
+All eight website pages rendered at desktop and mobile sizes.
+24 layouts checked at widths of 1440px, 390px and 320px.
+Local links/assets, one main heading per page, images and page scripts checked.
+Mobile navigation and Escape dismissal checked on all pages.
+Enquiry preselection, validation, safe preview rendering and dismissal checked.
+Accordion behaviour checked. Desktop and mobile layouts visually reviewed.
+
+The PDF flyer and its editable source remain included and unchanged.
+See README.txt for original asset sources, licensing and flyer editing notes.
